@@ -1,4 +1,4 @@
-Hello worl application of neuron nets
+Hello world application of neural nets
 
 Build training data:
 
