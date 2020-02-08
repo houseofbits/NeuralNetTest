@@ -2,8 +2,7 @@ Hello worl application of neuron nets
 
 Build training data:
 
-`` 
-g++ trainingData.cpp -o trainingData
+``g++ trainingData.cpp -o trainingData
 
 ./trainingData > trainingData.txt
 
