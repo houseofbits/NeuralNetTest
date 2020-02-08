@@ -6,6 +6,8 @@ Build training data:
 
 ``./trainingData > trainingData.txt``
 
+Build app
+
 ``g++ main.cpp -o neuron``
 
 ``./neuron``
