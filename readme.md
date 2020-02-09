@@ -1,6 +1,6 @@
 ## Neural Nets experimentation
 
-**hello-world - Training simple XOR operator**
+**hello-world - Training simple XOR operator with back propagation**
 
 Build training data:
 
