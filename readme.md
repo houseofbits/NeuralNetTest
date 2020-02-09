@@ -1,6 +1,6 @@
 ## Neural Nets experimentation
 
-** hello-world - Training simple XOR operator **
+**hello-world - Training simple XOR operator**
 
 Build training data:
 
