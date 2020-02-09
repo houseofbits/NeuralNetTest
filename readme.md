@@ -1,4 +1,6 @@
-Hello world application of neural nets
+## Neural Nets experimentation
+
+** hello-world - Training simple XOR operator **
 
 Build training data:
 
