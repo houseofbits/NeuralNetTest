@@ -1,6 +1,6 @@
 ## Neural Nets experimentation
 
-***hello-world/*** - Training simple XOR operator with feed forward and back propagation**
+***hello-world/*** - Training simple XOR operator with feed forward and back propagation
 
 Build training data:
 
